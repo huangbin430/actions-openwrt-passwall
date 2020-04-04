@@ -24,7 +24,7 @@ on:
 env:
   REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: dev-lean-lede
-  CONFIG_FILE: X64-lean.config
+  CONFIG_FILE: X64-lea.config
   DIY_SH: diy.sh
   FREE_UP_DISK: false
   SSH_ACTIONS: false
